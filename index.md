@@ -7,3 +7,7 @@
 <body>
 
 <h2>JavaScript if</h2>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
